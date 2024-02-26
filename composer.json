@@ -1,0 +1,11 @@
+{
+  "name": "aryunara/my-core",
+  "description": "files from the 1st project",
+  "type": "library",
+  "authors": [
+    {
+      "name": "aryunara"
+    }
+  ],
+  "require": {}
+}
